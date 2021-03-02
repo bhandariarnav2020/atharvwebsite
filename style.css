@@ -33,9 +33,16 @@ body{
    color:dodgerblue;
    font-family:cursive;
 }
-.text{
+#text{
     margin-top:30px;
     margin-left:100px;
+    font-weight:300;
+    font-size:30px; 
+    font-family:cursive; 
+    color:orange;   
+}
+.text{
+    margin-top:30px;
     font-weight:300;
     font-size:30px; 
     font-family:cursive; 
